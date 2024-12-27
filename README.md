@@ -1,6 +1,6 @@
 # Hi Im Michael Rose 
 
-##I am a diesel mechanic learning to code.
+## I am a diesel mechanic learning to code.
 
 <p>I live in Western Australia in the little towm Kojonup</p>
 
